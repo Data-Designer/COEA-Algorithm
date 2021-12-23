@@ -45,6 +45,7 @@ GT is our Algorithm(GTEA(-GM);GTEA(-GC);GTEA) ! Note that dataset is too large, 
 
 If you follow our work, please cite it：
 
-[1] H Zhao, X Wu, C Zhao, L Zhang, H Ma, F Cheng - IEEE Transactions on Evolutionary Computation, 2021
+[1] Zhao H, Wu X, Zhao C, et al. CoEA: A Cooperative-Competitive Evolutionary Algorithm for Bidirectional Recommendations[J]. IEEE Transactions on Evolutionary Computation, 2021.
 
  
+
