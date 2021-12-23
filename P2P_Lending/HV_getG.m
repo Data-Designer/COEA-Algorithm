@@ -1,0 +1,10 @@
+CT=1700;
+filename1=['Results\',num2str(CT),'\GTEA(-GM)\HV.mat'];
+filename2=['Results\',num2str(CT),'\GTEA(-GC)\HV.mat'];
+filename3=['Results\',num2str(CT),'\GTEA\HV.mat'];
+HV1 = importdata(filename1);
+HV2 = importdata(filename2);
+HV3 = importdata(filename3);
+HV1_gap = HV1(1:10:end);
+HV2_gap = HV2(1:10:end);
+HV3_gap = HV3(1:10:end);
